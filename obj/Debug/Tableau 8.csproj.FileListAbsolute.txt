@@ -1,0 +1,7 @@
+C:\Users\Moi\source\repos\Tableau 8\Tableau 8\obj\Debug\Tableau 8.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\repos\Tableau 8\Tableau 8\obj\Debug\Tableau 8.csprojAssemblyReference.cache
+C:\Users\Moi\source\repos\Tableau 8\Tableau 8\bin\Debug\Tableau 8.exe.config
+C:\Users\Moi\source\repos\Tableau 8\Tableau 8\bin\Debug\Tableau 8.exe
+C:\Users\Moi\source\repos\Tableau 8\Tableau 8\bin\Debug\Tableau 8.pdb
+C:\Users\Moi\source\repos\Tableau 8\Tableau 8\obj\Debug\Tableau 8.exe
+C:\Users\Moi\source\repos\Tableau 8\Tableau 8\obj\Debug\Tableau 8.pdb
